@@ -7,7 +7,7 @@
 #  Convert voice to text in Arabic:
 by Using (html, css, javaScript) 
 ### 1. The page  before registration 
-<img src= "https://user-images.githubusercontent.com/107882994/177885981-ef8c59f2-d516-450f-a09a-1c24be9f97b6.png" >
+<img src= "https://user-images.githubusercontent.com/107882994/177885981-ef8c59f2-d516-450f-a09a-1c24be9f97b6.png" width="500">
 
 ### 2. While recording, a small text will appear under the button  that will Indicate the status of the recording like  "listening, please speak..." 
 
