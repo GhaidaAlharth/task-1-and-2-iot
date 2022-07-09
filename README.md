@@ -20,3 +20,18 @@ by Using (html, css, javaScript)
 
 # esp32 algorithm
 
+Step 1: Download arduino ide.
+
+Step 2: Open the arduino and click File >> then Preferences and put a Library>> (https://dl.espressif.com/dl/package_esp32_index.json)
+
+<img src= "https://user-images.githubusercontent.com/107882994/178125525-04828d52-f268-4aef-9228-1e238c10a511.jpg " width="600">
+
+
+Step 3: Click on Tools, then board: “Arduino uno”, then “Board manager” and then search for ESP32 and download it.
+
+<img src= "https://user-images.githubusercontent.com/107882994/178125540-5a0203be-951f-467c-a08a-8c654b897e6b.png " width="600">
+
+Step 4: close the window of board manager and your Arduino IDE is ready to program ESP32.
+
+
+
