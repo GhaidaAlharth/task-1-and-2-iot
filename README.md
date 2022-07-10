@@ -1,10 +1,10 @@
-# Task 1:
-##### Convert voice to text in Arabic
-##### esp32 algorithm
+# Task 1&2:
+#####  1. Convert voice to text in Arabic
+##### 2. esp32 algorithm
 
 
 
-#  Convert voice to text in Arabic:
+#  1. Convert voice to text in Arabic:
 by Using (html, css, javaScript) 
  1. The page  before registration 
 <img src= "https://user-images.githubusercontent.com/107882994/177889035-418c9cdf-a7df-4d22-a9aa-1e50de6aed7b.png" width="600">
@@ -18,7 +18,7 @@ by Using (html, css, javaScript)
 
 
 
-# esp32 algorithm
+# 2. esp32 algorithm
 
 Step 1: Download arduino ide.
 
